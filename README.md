@@ -1,5 +1,7 @@
 # 100DaysOfMLCode - Part 2
 
+![100 days of ml code](https://cdn-images-1.medium.com/max/1000/1*CnBFqCWTWFWJkcKBa2DWSA.png)
+
 ## Overview
 
 These are the instructions for [this](https://www.youtube.com/watch?v=cuQMBj1cWPo&t=7s) video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
