@@ -29,8 +29,18 @@ make a blog or vlog.
 
 **Today's Progress**: 
 
+* Implemented Supervised learning algorithms : Perceptron, Decision Trees, K Nearest Neighbour, Naive Bayes from Scratch. Learned about Quadratic Discriminant Analyis and Linear Discriminant Analysis in detail. Combined the algorithms to create a web service project.
+* Completed Model Validation lecture on Datacamp.
+* Completed Convlutional Filters and Edge Detection from Computer Vision Nanodegree.
+
 **Thoughts**: 
-
+* The implementation part of Decision tree was probably the most challenging and the maths behind Naive Bayes will be something I'll never forget. Its yet funny how a perceptron can get almost 100% accuracy on MNIST and 50% on a simple XOR problem.
+KNN can be thought of exactly opposite to Naive Bayes had to say.
+* 
+* 
 **Link(s) to work**:
-[](www.github.com/sourcecode369)
 
+* [Supervised learning algorithms](https://github.com/sourcecode369/supervised-learning-algorithms)
+* [Datacamp]()
+* [Computer Vision]()
+    
