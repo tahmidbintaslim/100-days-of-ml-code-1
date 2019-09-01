@@ -27,8 +27,8 @@ make a blog or vlog.
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**: 
 
-**Link(s) to work**
+**Link(s) to work**:
 [](www.github.com/sourcecode369)
 
