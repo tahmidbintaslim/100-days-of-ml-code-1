@@ -1,4 +1,4 @@
-# 100DaysOfMLCode
+# 100DaysOfMLCode - Part 2
 
 ## Overview
 
@@ -22,4 +22,13 @@ this powerful tool by dedicating at least 1 hour of your time everyday to studyi
 - Make a public log of your work. Update it daily. Here is a GitHub example [template](https://gist.github.com/llSourcell/43194e486a92532bc343f7837b178eda). Another one is [here](https://github.com/LordSomen/100DaysOfML/blob/master/Log.md). You can also
 make a blog or vlog. 
 - If you see someone make a post using the #100DaysofMLCode hashtag, encourage them via a 'like', 'share', or comment!
+
+### Day 1: September 1, 2019 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+[](www.github.com/sourcecode369)
 
