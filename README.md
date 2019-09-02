@@ -36,11 +36,18 @@ make a blog or vlog.
 **Thoughts**: 
 * The implementation part of Decision tree was probably the most challenging and the maths behind Naive Bayes will be something I'll never forget. Its yet funny how a perceptron can get almost 100% accuracy on MNIST and 50% on a simple XOR problem.
 KNN can be thought of exactly opposite to Naive Bayes had to say.
-* 
-* 
+* Revisited the concepts of manual and grid search, random search model validation techniques.  
+
 **Link(s) to work**:
 
 * [Supervised learning algorithms](https://github.com/sourcecode369/supervised-learning-algorithms)
-* [Datacamp]()
-* [Computer Vision]()
+* [Datacamp](https://campus.datacamp.com/courses/hyperparameter-tuning-in-python/random-search?ex=5)
+
+### Day 2: September 2, 2019 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
     
