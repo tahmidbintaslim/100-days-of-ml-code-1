@@ -46,8 +46,12 @@ KNN can be thought of exactly opposite to Naive Bayes had to say.
 ### Day 2: September 2, 2019 
 
 **Today's Progress**: 
+* Started Bayesian Machine Learning by Lazy Programmer. Reached upto Traditional A-B Testing.
+* Computer Vision Nanodegree in progress - Implemented Fourier Transform Feature Detector, High and low pass filters, Canny Edge Detector. 
 
 **Thoughts**: 
+* Todays progress was slow, though was able to understand all the concepts. Though will try to cope up and learn more tomorrow.
 
 **Link(s) to work**:
-    
+* [Bayesian Machine Learning](https://github.com/sourcecode369/bayesian-machine-learning)
+* [Computer Vision](https://github.com/sourcecode369/computer-vision)
