@@ -55,3 +55,12 @@ KNN can be thought of exactly opposite to Naive Bayes had to say.
 **Link(s) to work**:
 * [Bayesian Machine Learning](https://github.com/sourcecode369/bayesian-machine-learning)
 * [Computer Vision](https://github.com/sourcecode369/computer-vision)
+
+### Day 3: September 3, 2019 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
