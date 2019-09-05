@@ -59,8 +59,35 @@ KNN can be thought of exactly opposite to Naive Bayes had to say.
 ### Day 3: September 3, 2019 
 
 **Today's Progress**: 
+* Computer Vision Nanodegree - Completed convolutional filters and edge detection. Implemented facial recognition system using HARR cascade.
+* Completed Traditional AB testing from Bayesian Machine learning.
 
 **Thoughts**: 
+* The harr cascade uses some kind of pretrained xml file which then helps to detect faces in the wild. It was amazing but yet its not AI.
 
 **Link(s) to work**:
+* [Computer Vision](https://github.com/sourcecode369/computer-vision/tree/master/Convolutional%20Filters%20and%20Edge%20Detection)
+* [Bayesian Machine Learning](https://github.com/sourcecode369/bayesian-machine-learning)
 
+### Day 4: September 4, 2019 
+
+**Today's Progress**: 
+* Computer Vision Nanodegree - Completed edge detection and Image Segmentation using OpenCV.
+* Implemented t-test, chi-square test and other tradional AB Testing methods in Python.
+
+**Thoughts**:
+* No matter how insignificant the test static looks never ignore it.
+* Contour detection single handedly can detect the edges but the codition is that the image has to be converted into binary so that it can detect some sort of high pass filter shift.
+* K-Means clustering was outstanding. Separating RGB values using 3 clusters was really beautiful to vizualize.
+
+**Link(s) to work**:
+* [Computer Vision](https://github.com/sourcecode369/computer-vision/tree/master/Edge%20Detection%20and%20Image%20Segmentation)
+* [Bayesian Machine Learning](https://github.com/sourcecode369/bayesian-machine-learning)
+
+### Day 5: September 5, 2019 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**:
